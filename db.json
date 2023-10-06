@@ -7,6 +7,22 @@
       "email": "sam@gmail.com",
       "phone": "84739389423",
       "gender": "male"
+    },
+    {
+      "id": "abc",
+      "name": "abc",
+      "password": "abc",
+      "email": "abc@gmail.com",
+      "phone": "9774787262",
+      "gender": "male"
+    },
+    {
+      "id": "selva",
+      "name": "selvakumar",
+      "password": "selva",
+      "email": "abc@gmail.com",
+      "phone": "04848837",
+      "gender": "male"
     }
   ]
 }
