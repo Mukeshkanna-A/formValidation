@@ -71,7 +71,7 @@ function Signup() {
     <div className="row signupContainer">
       <div className="offset-lg-3 col-lg-6">
         <form className="container formContainer" onSubmit={handlesubmit}>
-          <div className="card">
+          <div className="card" style={{backgroundColor:"gray"}}>
             <div className="card-header">
               <h3>User Registration</h3>
             </div>

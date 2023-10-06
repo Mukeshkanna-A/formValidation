@@ -1,11 +1,11 @@
 {
   "user": [
     {
-      "id": "admin",
-      "name": "admin",
-      "password": "admin",
-      "email": "abc@gmail.com",
-      "phone": "9586473434",
+      "id": "sam",
+      "name": "sam",
+      "password": "sam",
+      "email": "sam@gmail.com",
+      "phone": "84739389423",
       "gender": "male"
     }
   ]

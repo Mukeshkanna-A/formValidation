@@ -56,7 +56,7 @@ function Login() {
         {/* form  */}
         <form onSubmit={ProceedLogin} className='container formContainer'>
           {/* Card  */}
-          <div className='card'>
+          <div className='card' style={{backgroundColor:"gray"}}>
             <div className='card-header'>
                 <h2>User Login</h2>
             </div>
